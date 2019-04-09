@@ -1,0 +1,107 @@
+.logo {
+	width: 400px;
+    height: 50px;
+    padding: 50px;
+}
+button {
+	width: 200px;
+	height: 80px;
+	border-radius: 20px;
+	background-color: #fff;
+	border-color: #fff;
+	font-family: "Sheriff", sans-serif;
+	font-size: 20px;
+	font-weight: 600;
+}
+.grid-container {
+	width: 320px;
+	height: 320px;
+
+	display: grid;
+  	grid-template-columns: auto auto auto;
+  	padding: 10px;
+  	grid-gap: 74px 30px;
+  	margin-top: 20%;
+
+
+}
+.blue{
+	background-color: #159;
+	width: 900px;
+	height: 700px;
+	margin: 5px;
+}
+
+.test{
+	background-color: #e92;
+	width: 280px;
+	height: 280px;
+	margin: 5px;
+}
+
+h1 {
+	font-size: 50px;
+	font-family: "Sheriff", sans-serif;
+	color: #00418c;
+
+}
+
+h3 {
+	font-size: 25px;
+	font-family: "Sheriff", sans-serif;
+	font-style: italic;
+	color: #e92;
+}
+
+h2 {
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	font-family: "Sheriff", sans-serif;
+	padding-left: 100px;
+    padding-top: 40px; 
+}
+
+.text {
+	text-align: center;
+}
+
+.textvak {
+	text-align: center;
+	padding-left: 400px;
+    margin-right: 50px;
+    display: grid;
+  	grid-template-columns: auto auto auto;
+  	padding: 10px;
+  	grid-gap: 74px 30px;
+  	margin-top: 10%;
+}
+
+.textvak h2 {
+	color: white;
+	font-size: 60px;
+    font-family: "Sheriff", sans-serif;
+
+}
+
+.textvak p {
+	color: white;
+	font-family: "Sheriff", sans-serif;
+	font-size: 26px;
+	font-weight: 550;
+	letter-spacing: 3px;
+}
+p {
+	margin: -30px;
+}
+
+img {
+	width: 150px;
+    height: 150px;
+    /*padding: 65px;
+    padding-top: 500px;
+    border: 0;*/
+    padding-top: 250px;
+    padding-left: 30px;
+
+}
